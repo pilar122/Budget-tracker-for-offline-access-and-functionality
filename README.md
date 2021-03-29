@@ -1,1 +1,1 @@
-# Budget-tracker-for-offline-access-and-functionality
+# Budget Tracker For Offline Access and Functionality
